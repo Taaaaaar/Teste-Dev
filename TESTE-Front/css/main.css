@@ -1,0 +1,14 @@
+body{
+    background: rgb(146,240,117);
+    background: linear-gradient(90deg, rgba(146,240,117,1) 0%, rgba(31,191,118,1) 100%);
+}
+
+.btn-gradient{
+    background: rgb(146,240,117);
+    background: linear-gradient(90deg, rgba(146,240,117,1) 0%, rgba(31,191,118,1) 100%);
+}
+
+.btn-gradient-inverse{
+    background: rgb(146,240,117);
+    background: linear-gradient(270deg, rgba(146,240,117,1) 0%, rgba(31,191,118,1) 100%);
+}
